@@ -1,0 +1,35 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: myEndpoint
+  Id: g=77e47ab93b33336b4a94d732cb361151
+  Type: BaseDataVariableType
+  DataType: String
+  Value: ""
+- Name: myResponse
+  Id: g=db69e9a73323c68354abd4358989a4be
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: myOptional
+  Type: BaseDataVariableType
+  DataType: String
+  Value: ""
+- Name: myToken
+  Id: g=82392aa314b78189af1b42e7edfd0537
+  Type: BaseDataVariableType
+  DataType: String
+  Value: ""
+- Name: myRobotID
+  Id: g=896ea9855c0266698d93165686fd1e9b
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Image_Timeout
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 200
+- Name: Image_Retries
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 5
